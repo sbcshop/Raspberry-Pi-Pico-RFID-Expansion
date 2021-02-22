@@ -18,8 +18,8 @@ Raspberry Pi Pico RFID Expansion is the latest technology in the range of SB Com
 
 ### Requirements
 
-* Raspberry Pi Pico RFID Expansion (Buy it from :  )
-* Raspberry Pi Pico (Buy it from :  )
+* Raspberry Pi Pico RFID Expansion (Buy it from : https://shop.sb-components.co.uk/products/raspberry-pi-pico-rfid-expansion )
+* Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header  )
 * USB Cable
 * Jumper Cables (optional)
 
