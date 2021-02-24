@@ -1,4 +1,4 @@
-# Raspberry-Pi-Pico-RFID-Expansion
+# Raspberry Pi Pico RFID Expansion
 
 Raspberry Pi Pico RFID Expansion is the latest technology in the range of SB Component products boasting an advanced RFID Reader at the frequency of 125KHz with a compact design that has a programmable 0.91” OLED Display and, an updated UART/I2C interface running, that is compatible with Raspberry Pi Pico.
 
