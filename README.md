@@ -29,9 +29,9 @@ Raspberry Pi Pico RFID Expansion is the latest technology in the range of SB Com
 * Connect USB cable on Raspberry Pi Pico USB port.
 * Make sure default jumpers are connected for RFID/Buzzer/Oled (Yellow one).
 * Clone/Download Pico RFID Expansion repository.
-* Now use example code "Board_test.py" from pico RFID Expansion's github repository.
+* Now open example code "Board_test.py" in thonny ide.
 * Choose interpreter as 'MicroPython (Raspberry Pi pico)'.
 * Click on green play button to run example on Pico RFID Expansion.
-* Now tap you RFID card/Tag/keyfob on RFID reader to print tag output on Oled Display.
+* Now tap you RFID card/Tag/keyfob on RFID reader to print tag output on Oled Display with beep sound from buzzer.
 
 Note: You can use any other GPIO of Raspberry Pi Pico by removing default jumper and connection it to GPIO using jumper cables. 
