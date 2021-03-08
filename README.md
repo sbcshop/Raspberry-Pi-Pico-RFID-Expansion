@@ -39,4 +39,4 @@ Raspberry Pi Pico RFID Expansion is the latest technology in the range of SB Com
 
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/My_Video_3_1024x1024.gif?v=1614942246" />
 
-Note: You can use any other GPIO of Raspberry Pi Pico by removing default jumper and connection it to GPIO using jumper cables. 
+<b>Note:</b> You can use any other GPIO of Raspberry Pi Pico by removing default jumper and connection it to GPIO using jumper cables. 
