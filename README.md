@@ -29,6 +29,7 @@ Raspberry Pi Pico RFID Expansion is the latest technology in the range of SB Com
 * Connect USB cable on Raspberry Pi Pico USB port.
 * Make sure default jumpers are connected for RFID/Buzzer/Oled (Yellow one).
 * Clone/Download Pico RFID Expansion repository.
+* Create 3 file as ssd1306.py, framebuf.py and usdl2.py from lib and save it in root location of Raspberry pi Pico.
 * Now open example code "Board_test.py" in <b>thonny ide</b>.
 * Choose interpreter as 'MicroPython (Raspberry Pi pico)'.
 
