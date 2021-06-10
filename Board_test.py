@@ -38,10 +38,8 @@ while True:
     #uart.write('h')
     command= uart.read(12)
     
-    command= command.decode("utf-8")
     if command:
-        
-        # Add some text
+        print(command.decode("utf-8"))
         buzzer(1)
         utime.sleep(0.2)
         buzzer(0)
